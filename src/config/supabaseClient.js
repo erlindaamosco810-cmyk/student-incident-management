@@ -7,5 +7,5 @@ const SUPABASE_ANON_KEY = process.env.REACT_APP_ANON_KEY;
 
 // Create the Supabase client
 const supabase = createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
-
+git
 export default supabase;
